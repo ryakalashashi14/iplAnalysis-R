@@ -1,0 +1,30 @@
+Cricket Info Visualization Report
+=================================
+
+Total players analyzed: 27
+Unique teams: 9
+Average strike rate: 144.12
+Top run scorer: Virat Kohli (661 runs)
+Top wicket taker: Jasprit Bumrah (24 wickets)
+Best batting team: Mumbai Indians (1447 runs)
+Best bowling team: Mumbai Indians (35 wickets)
+
+Player roles:
+- Batsman: 11
+- Bowler: 7
+- All-rounder: 6
+- Wk-Batsman: 3
+
+Top 5 run scorers:
+- Virat Kohli: 661 runs
+- Shubman Gill: 635 runs
+- Ruturaj Gaikwad: 612 runs
+- Jos Buttler: 611 runs
+- Rohit Sharma: 575 runs
+
+Top 5 wicket takers:
+- Jasprit Bumrah: 24 wickets
+- Yuzvendra Chahal: 21 wickets
+- Kuldeep Yadav: 20 wickets
+- Mohammed Siraj: 19 wickets
+- Ravindra Jadeja: 18 wickets

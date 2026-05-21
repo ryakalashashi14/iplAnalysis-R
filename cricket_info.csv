@@ -1,0 +1,29 @@
+player,team,role,matches,runs,balls_faced,strike_rate,fours,sixes,wickets
+Virat Kohli,Royal Challengers,Batsman,14,661,480,137.71,60,18,0
+Rohit Sharma,Mumbai Indians,Batsman,14,575,420,136.90,52,20,0
+Shubman Gill,Gujarat Titans,Batsman,14,635,450,141.11,68,12,0
+Suryakumar Yadav,Mumbai Indians,Batsman,14,498,312,159.61,42,28,0
+Ruturaj Gaikwad,Chennai Super Kings,Batsman,14,612,435,140.69,58,16,0
+Jos Buttler,Rajasthan Royals,Wk-Batsman,14,611,437,139.82,54,26,0
+Sanju Samson,Rajasthan Royals,Wk-Batsman,14,545,378,144.18,47,22,0
+KL Rahul,Lucknow Super Giants,Batsman,13,487,360,135.28,40,15,0
+Shreyas Iyer,Kolkata Knight Riders,Batsman,12,402,299,134.45,33,12,0
+Rinku Singh,Kolkata Knight Riders,Batsman,14,381,182,209.34,29,28,0
+Hardik Pandya,Mumbai Indians,All-rounder,13,332,210,158.10,20,21,11
+Ravindra Jadeja,Chennai Super Kings,All-rounder,14,286,184,155.43,18,14,18
+Glenn Maxwell,Royal Challengers,All-rounder,13,421,250,168.40,33,27,8
+Andre Russell,Kolkata Knight Riders,All-rounder,13,388,204,190.20,24,33,15
+Sunil Narine,Kolkata Knight Riders,All-rounder,13,248,164,151.22,16,17,18
+Jasprit Bumrah,Mumbai Indians,Bowler,14,42,33,127.27,4,2,24
+Mohammed Siraj,Royal Challengers,Bowler,14,31,28,110.71,2,1,19
+Kuldeep Yadav,Delhi Capitals,Bowler,14,29,25,116.00,1,1,20
+Yuzvendra Chahal,Rajasthan Royals,Bowler,14,22,18,122.22,1,1,21
+Rashid Khan,Gujarat Titans,Bowler,14,97,62,156.45,8,6,17
+David Warner,Delhi Capitals,Batsman,13,529,397,133.25,55,14,0
+Prithvi Shaw,Delhi Capitals,Batsman,13,342,255,134.12,38,11,0
+Nicholas Pooran,Lucknow Super Giants,Wk-Batsman,14,437,258,169.38,30,24,0
+Mitchell Marsh,Lucknow Super Giants,All-rounder,11,322,221,145.70,25,15,7
+Arshdeep Singh,Punjab Kings,Bowler,14,21,17,123.53,1,1,18
+Mayank Agarwal,Punjab Kings,Batsman,14,456,350,130.29,43,10,0
+Deepak Chahar,Chennai Super Kings,Bowler,10,24,20,120.00,2,1,12
+
