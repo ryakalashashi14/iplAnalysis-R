@@ -1,5 +1,3 @@
-# iplAnalysis-R
-Visualization of data using  R programming 
 # Cricket Info Visualization
 
 A compact R project that explores sample cricket performance data and creates simple visualizations with base R.
